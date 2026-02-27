@@ -1,0 +1,8 @@
+{
+  "name": "Ethiopia Infrastructure Collision Detection AI",
+  "description": "A formal government platform for coordinating national infrastructure projects using AI-based gap analysis and collision detection to prevent planning conflicts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
